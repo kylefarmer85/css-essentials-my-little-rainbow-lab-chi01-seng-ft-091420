@@ -14,28 +14,28 @@ div {
   border-top-color: #f00;
 }
 
-div #orange {
-  color: #ffa500;
+#orange {
+  border-top-color: #ffa500;
 }
 
-div #yellow {
-  color: #ff0;
+#yellow {
+  border-top-color: #ff0;
 }
 
-div #green {
-  color: #00bc3f;
+#green {
+  border-top-color: #00bc3f;
 }
 
-div #blue {
-  color: #06f;
+#blue {
+  border-top-color: #06f;
 }
 
-div #indigo {
-  color: #8a2be2;
+#indigo {
+  border-top-color: #8a2be2;
 }
 
-div #violet {
-  color: #d300c9;
+#violet {
+  border-top-color: #d300c9;
 }
 
 
